@@ -8,7 +8,6 @@ Here's a complete, polished README file for your project:
 
 This project is a \[short description of the project]. It uses modern web technologies to build a highly interactive and efficient web application.
 
-**URL**: [Project URL](https://lovable.dev/projects/78ea073d-58a6-4e64-95d1-93bdc8375cb0)
 
 ---
 
